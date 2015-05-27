@@ -1,0 +1,7 @@
+{
+	"name":"WebPreviewer",
+	"version":"1.2",
+	"author":"Houfeng",
+	"summary":"Web Previewer Extension",
+	"main":"main"
+}

@@ -1,0 +1,7 @@
+{
+    "inDir":"./src",
+    "outDir":"./build",
+    "ignoreList":[
+        "lib/parser"
+    ]
+}
